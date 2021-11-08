@@ -17,7 +17,7 @@ subtitle                 : "A Jekyll theme"
 name                     : &name "이연욱" # &name is a YAML anchor which can be *referenced later
 description              : &description "happy yeonwook"
 url                      : https://leeyeonwook.github.io # the base hostname & protocol for your site e.g. "https://leeyeonwook.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/leeyeonwook.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "leeyeonwook/leeyeonwook.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
